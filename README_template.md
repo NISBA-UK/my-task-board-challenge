@@ -1,10 +1,9 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name} | devChallenges</h1>
+<h1 align="center">{Your project name}</h1>
 
 <div align="center">
-   Solution for a challenge <a href="https://devchallenges.io/challenge/my-task-board-app" target="_blank">My Task Board
-</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
+   Solution for a challengeMy Task Board
 </div>
 
 <div align="center">
@@ -16,10 +15,7 @@
     <a href="{https://your-url-to-the-solution}">
       Solution
     </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenge/my-task-board-app">
-      Challenge
-    </a>
+    <span>
   </h3>
 </div>
 
@@ -74,8 +70,6 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
 
 ## Acknowledgements
 
